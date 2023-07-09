@@ -1,6 +1,6 @@
 ![image](imagen.png)
 
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/walkator&bgLeft=000000&bgRight=6511c8&label=visits)
+![Hits](https://hits-app.vercel.app/hits?url=https://github.com/walkator&bgLeft=000000&bgRight=6511c8&label=visits)
 
 <!--
 **Walkator/walkator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
