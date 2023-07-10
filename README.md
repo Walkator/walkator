@@ -1,6 +1,6 @@
 ![image](imagen.png)
 
-<div align="center">
+<div>
     <img src="https://hits-app.vercel.app/hits?url=https://github.com/walkator&bgLeft=000000&bgRight=6511c8&label=visits" alt="Counter visits"/>
     <img src="https://simple-spotify-readme.vercel.app/api" alt="Current Spotify Song">
 </div>
